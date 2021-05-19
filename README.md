@@ -3,5 +3,5 @@
 Olá! Bem vindo ao livro de receitas
 
 - Strogonoff de Frango
-- Bolo de Chocolate
+- Bolo de Cenoura
 
